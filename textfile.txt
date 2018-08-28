@@ -1,0 +1,14 @@
+Merhaba,
+<br>
+<br>
+ProjectName Haftası SOAPUI Projesinin UAT ortamı Haftalık Kullanılabilirlik Raporunu Aşağıda Bulabilirsiniz
+<br>
+<br>
+<img src="cid:image1.png" align="middle">
+<br>
+<br>
+<img src="cid:image2.png" align="middle">
+<br>
+<br>
+<img src="cid:image3.png" align="middle">
+
